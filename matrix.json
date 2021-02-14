@@ -1,0 +1,42 @@
+{
+    "name": "matrix",
+    "children": [
+        {
+            "name": "Swift",
+            "children": [
+                {"name": "Classes and Structures", "size": 1},
+                {"name": "Closures", "size": 1},
+                {"name": "Collection Types", "size": 1},
+                {"name": "Control Flow", "size": 1},
+                {"name": "Enumerations", "size": 1},
+                {"name": "Extensions", "size": 1},
+                {"name": "Functions", "size": 1},
+                {"name": "Inheritance", "size": 1},
+                {"name": "Initialization", "size": 1},
+                {"name": "Methods", "size": 1},
+                {"name": "Optional Chaining", "size": 1},
+                {"name": "Properties", "size": 1},
+                {"name": "Protocols", "size": 1},
+                {"name": "Type Casting", "size": 1}
+            ]
+        },
+        {
+            "name": "Computer Science",
+            "children": [
+                {"name": "Algorithms", "children": [
+                    {"name": "Recursion", "size": 1},
+                    {"name": "Dynamic Programming", "size": 1},
+                    {"name": "Sorting", "size": 1},
+                    {"name": "Searching", "size": 1},
+                    {"name": "Big-O", "size": 1}
+                ]},
+                {"name": "Set theory", "size": 1},
+                {"name": "Graph theory", "size": 1},
+                {"name": "Statistics Basics", "size": 1},
+                {"name": "Probability Theory Basics", "size": 1},
+                {"name": "Data Structures", "size": 1},
+                {"name": "Matrices", "size": 1}
+            ]
+        }
+    ]
+}
